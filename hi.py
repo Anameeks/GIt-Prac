@@ -17,7 +17,7 @@ if choice == '1':
     result = num1 + num2
     print("Result:", result)
 
-elif choice == '2':
+elif choice == '5':
     result = num1 - num2
     print("Result:", result)
 
