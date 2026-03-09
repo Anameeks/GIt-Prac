@@ -5,7 +5,7 @@ num1 = float(input("Enter first number: "))
 num2 = float(input("Enter second number: "))
 
 # Choose operation
-print("Choose operation:")
+print("Take between:")
 print("1. Addition")
 print("2. Subtraction")
 print("3. Multiplication")
